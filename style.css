@@ -1184,3 +1184,30 @@
       font-size: 11px;
     }
   }
+
+
+  @media (max-width: 760px) {
+
+    .hero {
+      overflow: hidden;
+    }
+  
+    .profile-panel {
+      width: 100%;
+      max-width: 100%;
+      transform: none !important;
+    }
+  
+    .hero-content,
+    .profile-panel {
+      min-width: 0;
+    }
+  
+    .social-bar {
+      justify-content: center;
+    }
+  
+    .hero h1 {
+      word-break: break-word;
+    }
+  }
