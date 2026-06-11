@@ -340,6 +340,8 @@ const baseContent = {
   project_4_title: "Numbers",
   project_5_title: "BarberShop Website",
   project_6_title: "Telegram Bot for Group Orders",
+  project_7_title: "Yan-Logistics",
+  project_8_title: "DocGaid",
   project_1_text:
     "A clean web tool for organizing meetings and scheduling time more easily.",
   project_2_text:
@@ -352,6 +354,10 @@ const baseContent = {
     "A stylish landing page concept for a barbershop with visual presentation and structure.",
   project_6_text:
     "A Python-based Telegram bot idea for collecting product links, user data and grouped orders.",
+  project_7_text:
+    "A customer portal for managing international shipments, package tracking, and delivery services to Armenia.",
+  project_8_text:
+    "An AI-powered medical document management and analysis platform that helps healthcare professionals process and organize patient information efficiently.",
   open_project: "Open Project →",
   in_progress: "In Progress →",
   contact_label: "Contact",
@@ -495,7 +501,9 @@ const translations = {
     project_3_title: "Լատինատառից հայերեն",
     project_4_title: "Թվեր",
     project_5_title: "BarberShop կայք",
-    project_6_title: "Telegram bot խմբային պատվերների համար",
+    project_6_title: "Telegram bot պատվերների համար",
+    project_7_title: "Yan-Logistics",
+    project_8_title: "DocGaid",
     project_1_text:
       "Մաքուր վեբ գործիք հանդիպումներ կազմակերպելու և ժամանակը ավելի հեշտ պլանավորելու համար։",
     project_2_text:
@@ -508,8 +516,12 @@ const translations = {
       "Ոճային landing page գաղափար barbershop-ի համար՝ վիզուալ ներկայացմամբ և կառուցվածքով։",
     project_6_text:
       "Python-ով Telegram bot գաղափար՝ ապրանքի հղումներ, օգտատիրոջ տվյալներ և խմբային պատվերներ հավաքելու համար։",
+    project_7_text:
+      "Հաճախորդների հարթակ միջազգային առաքումների կառավարման, ծանրոցների հետևման և Հայաստան առաքման ծառայությունների համար։",
+    project_8_text:
+      "AI-ով աշխատող բժշկական փաստաթղթերի կառավարման և վերլուծության հարթակ, որը օգնում է բուժաշխատողներին արագ մշակել և կազմակերպել հիվանդների տվյալները։",
     open_project: "Բացել նախագիծը →",
-    in_progress: "Ընթացքի մեջ →",
+    in_progress: "Ընթացքի մեջ",
     contact_label: "Կապ",
     contact_title: "Կապ հաստատենք",
     contact_text:
@@ -649,6 +661,8 @@ const translations = {
     project_4_title: "Числа",
     project_5_title: "Сайт BarberShop",
     project_6_title: "Telegram-бот для групповых заказов",
+    project_7_title: "Yan-Logistics",
+    project_8_title: "DocGaid",
     project_1_text:
       "Чистый веб-инструмент для организации встреч и более удобного планирования времени.",
     project_2_text:
@@ -661,6 +675,10 @@ const translations = {
       "Стильная landing page концепция для barbershop с визуальной презентацией и структурой.",
     project_6_text:
       "Идея Telegram-бота на Python для сбора ссылок на товары, данных пользователей и групповых заказов.",
+    project_7_text:
+      "Клиентский портал для управления международными отправлениями, отслеживания посылок и доставки грузов в Армению.",
+    project_8_text:
+      "Платформа на базе ИИ для управления и анализа медицинских документов, помогающая медицинским специалистам эффективно обрабатывать и организовывать данные пациентов.",
     open_project: "Открыть проект →",
     in_progress: "В процессе →",
     contact_label: "Контакты",
@@ -802,6 +820,8 @@ const translations = {
     project_4_title: "Zahlen",
     project_5_title: "BarberShop Website",
     project_6_title: "Telegram Bot für Gruppenbestellungen",
+    project_7_title: "Yan-Logistics",
+    project_8_title: "DocGaid",
     project_1_text:
       "Ein sauberes Webtool, um Meetings zu organisieren und Zeit einfacher zu planen.",
     project_2_text:
@@ -814,6 +834,10 @@ const translations = {
       "Ein stilvolles Landing-Page Konzept für einen Barbershop mit visueller Präsentation und Struktur.",
     project_6_text:
       "Eine Python-basierte Telegram-Bot Idee zum Sammeln von Produktlinks, Nutzerdaten und Gruppenbestellungen.",
+    project_7_text:
+      "Ein Kundenportal zur Verwaltung internationaler Sendungen, Paketverfolgung und Lieferdiensten nach Armenien.",
+    project_8_text:
+      "Eine KI-gestützte Plattform zur Verwaltung und Analyse medizinischer Dokumente, die medizinischem Fachpersonal hilft, Patientendaten effizient zu verarbeiten und zu organisieren.",
     open_project: "Projekt öffnen →",
     in_progress: "In Arbeit →",
     contact_label: "Kontakt",
